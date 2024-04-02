@@ -1,2 +1,2 @@
 #demo
-Some text
+Some text;
